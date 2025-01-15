@@ -1,3 +1,5 @@
+Fork for own usage
+
 **Swiftmailer will stop being maintained at the end of November 2021.**
 
 Please, move to Symfony Mailer at your earliest convenience.
